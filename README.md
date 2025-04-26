@@ -1,4 +1,4 @@
-## 👋🏼 Hi there, I'm Mohamad!
+# **👋🏼 Hi there, I'm Mohamad!**
 🚀 About Me 
 I'm an aspiring Full Stack Developer passionate about creating impactful web applications.
 Currently, I'm seeking opportunities where I can leverage my skills in:
