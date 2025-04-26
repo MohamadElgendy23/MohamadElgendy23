@@ -32,11 +32,12 @@ From responsive UI components with Tailwind CSS to full-stack CRUD apps with Rea
 
 🛠️ Tech Stack 
 
-Frontend	Backend	Tools
-React	Java	Git/GitHub
-Tailwind CSS	Spring Boot	VS Code
-HTML/CSS	REST APIs	Postman
-JavaScript	SQL	IntelliJ IDEA
+Frontend | Backend | Tools
+React | Java | Git/GitHub
+Tailwind CSS | Spring Boot | VS Code
+HTML/CSS | REST APIs | Postman
+JavaScript | SQL | IntelliJ IDEA
+
 🤝🏼 Let's Connect 
 I'm always excited to discuss new opportunities, collaborations, or anything tech-related!
 
