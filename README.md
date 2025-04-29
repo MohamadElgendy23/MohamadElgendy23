@@ -22,7 +22,7 @@ My goal is to contribute to innovative teams and continue growing as a professio
 Here’s a glimpse into some of my work!
 Feel free to explore my repositories to see my coding style, project structures, and tech stack choices.
 
-🎮 Video Game Sorter
+🎮 Video Game Sorter (Currently working on this!)
 A full-stack application to view, review, and sort video games using Spring Boot and React.
 
 📚 Other Projects
