@@ -23,9 +23,6 @@ My goal is to contribute to innovative teams and continue growing as a professio
 
 Here’s a glimpse into some of my work!
 Feel free to explore my repositories to see my coding style, project structures, and tech stack choices.
-
-📚 Projects
-
 From responsive UI components with Tailwind CSS to full-stack CRUD apps with React and Java.
 
 🌟 Each project represents my dedication to mastering full-stack development principles!
